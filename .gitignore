@@ -1,0 +1,6 @@
+*.name
+.idea/compiler.xml
+*.xml
+.idea/desktop.ini
+*.ini
+.idea/Mirza Hasanbasic.iml
